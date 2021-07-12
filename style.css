@@ -72,7 +72,7 @@ img{
   background: #0090aa;
 }
 #home{
-  background-image: url(images/main-bg.jpg);
+  background-image: url(https://github.com/kamitanigawa23/WBCcafe.sample/blob/main/main-bg.jpg?raw=true);
   min-height: 100vh;
 }
 #home .page-title{
